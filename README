@@ -1,1 +1,17 @@
 README - Splatbot to compete in: https://w3stu.cs.jmu.edu/baker2na/splatbot/index.html 
+
+## Session summary (2026-04-22 16:58:30 EDT)
+
+- Implemented spiral-first path with appended radial spokes (centre → spokes after spiral).
+- Tuned paintball threshold to fire when >= 3 neutral tiles straight ahead.
+- Performed parameter sweep for dash/paintball heuristics; saved results to `sweep_results.json`.
+- Validated final config (exact dash, paintball_threshold=3) with 200 matches vs `examples/random_everything_bot`: wins=143, losses=6, draws=51, avg_margin=3.37.
+- Added `sweep_params.py` (parameter sweep harness) and `sweep_results.json` (results).
+- Commit: 4d7c5da — "Apply spiral-first with appended radial spokes; tune paintball threshold; add parameter sweep script and results"
+
+Next steps:
+
+- Document final parameter choices in code comments and README (done).
+- Optionally run longer tournaments, tune spokes ordering, or push the commit to remote.
+
+If you'd like, I can revert to the earlier spiral-only strategy or push these commits to a remote repository.
