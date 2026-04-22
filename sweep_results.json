@@ -1,0 +1,167 @@
+[
+  {
+    "combo_id": 1,
+    "dash_mode": "exact",
+    "dash_threshold": null,
+    "paint_threshold": 2,
+    "wins": 0,
+    "losses": 3,
+    "draws": 17,
+    "avg_margin": -0.65,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 2,
+    "dash_mode": "exact",
+    "dash_threshold": null,
+    "paint_threshold": 3,
+    "wins": 16,
+    "losses": 1,
+    "draws": 3,
+    "avg_margin": 3.5,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 3,
+    "dash_mode": "exact",
+    "dash_threshold": null,
+    "paint_threshold": 4,
+    "wins": 0,
+    "losses": 3,
+    "draws": 17,
+    "avg_margin": -0.65,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 4,
+    "dash_mode": "score",
+    "dash_threshold": 4,
+    "paint_threshold": 2,
+    "wins": 13,
+    "losses": 3,
+    "draws": 4,
+    "avg_margin": 1.45,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 5,
+    "dash_mode": "score",
+    "dash_threshold": 8,
+    "paint_threshold": 2,
+    "wins": 13,
+    "losses": 3,
+    "draws": 4,
+    "avg_margin": 1.45,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 6,
+    "dash_mode": "score",
+    "dash_threshold": 12,
+    "paint_threshold": 2,
+    "wins": 7,
+    "losses": 2,
+    "draws": 11,
+    "avg_margin": 1.45,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 7,
+    "dash_mode": "score",
+    "dash_threshold": 16,
+    "paint_threshold": 2,
+    "wins": 0,
+    "losses": 3,
+    "draws": 17,
+    "avg_margin": -0.65,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 8,
+    "dash_mode": "score",
+    "dash_threshold": 4,
+    "paint_threshold": 3,
+    "wins": 0,
+    "losses": 3,
+    "draws": 17,
+    "avg_margin": -0.65,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 9,
+    "dash_mode": "score",
+    "dash_threshold": 8,
+    "paint_threshold": 3,
+    "wins": 0,
+    "losses": 3,
+    "draws": 17,
+    "avg_margin": -0.65,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 10,
+    "dash_mode": "score",
+    "dash_threshold": 12,
+    "paint_threshold": 3,
+    "wins": 2,
+    "losses": 2,
+    "draws": 16,
+    "avg_margin": -0.05,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 11,
+    "dash_mode": "score",
+    "dash_threshold": 16,
+    "paint_threshold": 3,
+    "wins": 16,
+    "losses": 1,
+    "draws": 3,
+    "avg_margin": 3.5,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 12,
+    "dash_mode": "score",
+    "dash_threshold": 4,
+    "paint_threshold": 4,
+    "wins": 0,
+    "losses": 3,
+    "draws": 17,
+    "avg_margin": -0.65,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 13,
+    "dash_mode": "score",
+    "dash_threshold": 8,
+    "paint_threshold": 4,
+    "wins": 0,
+    "losses": 3,
+    "draws": 17,
+    "avg_margin": -0.65,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 14,
+    "dash_mode": "score",
+    "dash_threshold": 12,
+    "paint_threshold": 4,
+    "wins": 0,
+    "losses": 3,
+    "draws": 17,
+    "avg_margin": -0.65,
+    "num_matches": 20
+  },
+  {
+    "combo_id": 15,
+    "dash_mode": "score",
+    "dash_threshold": 16,
+    "paint_threshold": 4,
+    "wins": 0,
+    "losses": 3,
+    "draws": 17,
+    "avg_margin": -0.65,
+    "num_matches": 20
+  }
+]
