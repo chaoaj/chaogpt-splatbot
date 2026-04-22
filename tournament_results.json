@@ -1,0 +1,79 @@
+{
+  "examples/ping_pong_bot": {
+    "draws": 20,
+    "p1_total_tiles": 20,
+    "p2_total_tiles": 20,
+    "matches": 20,
+    "avg_margin": 0.0,
+    "avg_p1_tiles": 1.0,
+    "avg_p2_tiles": 1.0,
+    "wins": 0,
+    "losses": 0
+  },
+  "examples/random_dash_bot": {
+    "draws": 20,
+    "p1_total_tiles": 20,
+    "p2_total_tiles": 20,
+    "matches": 20,
+    "avg_margin": 0.0,
+    "avg_p1_tiles": 1.0,
+    "avg_p2_tiles": 1.0,
+    "wins": 0,
+    "losses": 0
+  },
+  "examples/random_everything_bot": {
+    "draws": 15,
+    "p1_total_tiles": 26,
+    "p2_total_tiles": 30,
+    "losses": 3,
+    "wins": 2,
+    "matches": 20,
+    "avg_margin": -0.2,
+    "avg_p1_tiles": 1.3,
+    "avg_p2_tiles": 1.5
+  },
+  "examples/random_move_bot": {
+    "draws": 19,
+    "p1_total_tiles": 25,
+    "p2_total_tiles": 19,
+    "wins": 1,
+    "matches": 20,
+    "avg_margin": 0.3,
+    "avg_p1_tiles": 1.25,
+    "avg_p2_tiles": 0.95,
+    "losses": 0
+  },
+  "examples/random_paintball_bot": {
+    "draws": 16,
+    "p1_total_tiles": 18,
+    "p2_total_tiles": 27,
+    "losses": 4,
+    "matches": 20,
+    "avg_margin": -0.45,
+    "avg_p1_tiles": 0.9,
+    "avg_p2_tiles": 1.35,
+    "wins": 0
+  },
+  "examples/random_splat_bot": {
+    "draws": 16,
+    "p1_total_tiles": 19,
+    "p2_total_tiles": 39,
+    "losses": 4,
+    "matches": 20,
+    "avg_margin": -1.0,
+    "avg_p1_tiles": 0.95,
+    "avg_p2_tiles": 1.95,
+    "wins": 0
+  },
+  "examples/straight_line_bot": {
+    "draws": 20,
+    "p1_total_tiles": 20,
+    "p2_total_tiles": 20,
+    "matches": 20,
+    "avg_margin": 0.0,
+    "avg_p1_tiles": 1.0,
+    "avg_p2_tiles": 1.0,
+    "wins": 0,
+    "losses": 0
+  }
+}
